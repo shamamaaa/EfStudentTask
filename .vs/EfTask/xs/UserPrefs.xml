@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C73EC2CF-C48E-4751-836E-7531C51CE52A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EfTask/DAL/AppDbContext.cs">
+    <Files>
+      <File FileName="EfTask/Program.cs" Line="10" Column="1" />
+      <File FileName="EfTask/Models/Student.cs" Line="11" Column="2" />
+      <File FileName="EfTask/Services/StudentService.cs" Line="1" Column="1" />
+      <File FileName="EfTask/DAL/AppDbContext.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EfTask" expanded="True" selected="True">
+            <Node name="EfTask" expanded="True">
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EfTask PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
